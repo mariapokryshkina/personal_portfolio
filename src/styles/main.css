@@ -25,7 +25,7 @@
 	--footer-text: var(--white);
 
 	/* Light mode */
-	--page-bg: var(--darkpurple);
+	--page-bg: var(--white);
 	--text-color: var(--black);
 	--accent: var(--purple);
 	--title-1: var(--accent);
