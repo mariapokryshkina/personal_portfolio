@@ -37,7 +37,7 @@
 
 .dark {
 	/* Dark mode */
-	--header-bg: var(--black);
+	--header-header-bg: var(--black);
 	--page-bg: #252526;
 	--text-color: var(--white);
 
