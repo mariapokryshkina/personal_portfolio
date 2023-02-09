@@ -29,7 +29,7 @@ const Project = () => {
                 </div>
 
 
-                <BtnGitHub link="https://github.com/mariapokryshkina" />
+                <BtnGitHub link={project.gitHubLink} />
 
 
 
