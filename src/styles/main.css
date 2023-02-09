@@ -56,7 +56,6 @@ body {
 	letter-spacing: -0.5px;
 
 	/* Light mode */
-	--header--bg: var(--white)
 	background-color: var(--page-bg);
 	color: var(--text-color);
 }
