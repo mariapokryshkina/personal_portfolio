@@ -16,7 +16,7 @@
 	--nav-text: var(--white);
 
 	/* Header */
-	--header-bg: var(--black);
+	--header-bg: var(--white);
 	--header-text: var(--white);
 
 	/* Footer */
@@ -24,7 +24,6 @@
 	--footer-text: var(--white);
 
 	/* Light mode */
-	--header--bg: var(--white)
 	--page-bg: var(--white);
 	--text-color: var(--black);
 	--accent: var(--purple);
@@ -37,7 +36,7 @@
 
 .dark {
 	/* Dark mode */
-	--header--bg: var(--black);
+	--header--bg: var(--white);
 	--page-bg: var(--black);
 	--text-color: var(--white);
 
