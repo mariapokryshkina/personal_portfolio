@@ -14,8 +14,8 @@ const Footer = () => {
 				<div className="container">
 					<div className="footer__wrapper">
 						<ul className="social">
-							<li className="social__item"><a href="https://github.com/mariapokryshkina"><img src={gitHub} alt="Link"/></a></li>
-							<li className="social__item"><a href="https://www.linkedin.com/in/maria-pokryshkina-0251214b/"><img src={linkedIn} alt="Link"/></a></li>
+							<li className="social__item"><a href="https://github.com/mariapokryshkina" target="_blank" rel="noreferrer"><img src={gitHub} alt="Link"/></a></li>
+							<li className="social__item"><a href="https://www.linkedin.com/in/maria-pokryshkina-0251214b/" target="_blank" rel="noreferrer"><img src={linkedIn} alt="Link"/></a></li>
 						</ul>
 						<div className="copyright">
 							<p>© 2022 Maria Pokryshkina</p>
