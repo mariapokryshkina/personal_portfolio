@@ -16,7 +16,7 @@
 	--nav-text: var(--white);
 
 	/* Header */
-	--header-bg: var(--black);
+	--header-bg: var(--darkpurple);
 	--header-text: var(--white);
 
 	/* Footer */
@@ -77,7 +77,6 @@ body {
 	margin: 0 auto;
 	padding: 0 15px;
 	max-width: 1200px;
-	background-color: ;
 }
 
 .none {
