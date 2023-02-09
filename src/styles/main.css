@@ -16,7 +16,7 @@
 	--nav-text: var(--white);
 
 	/* Header */
-	--header-bg: var(--white);
+	--header-bg: var(--black);
 	--header-text: var(--white);
 
 	/* Footer */
@@ -36,7 +36,7 @@
 
 .dark {
 	/* Dark mode */
-	--header--bg: var(--white);
+	--header--bg: var(--black);
 	--page-bg: var(--black);
 	--text-color: var(--white);
 
@@ -56,6 +56,7 @@ body {
 	letter-spacing: -0.5px;
 
 	/* Light mode */
+	--header--bg: var(--white)
 	background-color: var(--page-bg);
 	color: var(--text-color);
 }
