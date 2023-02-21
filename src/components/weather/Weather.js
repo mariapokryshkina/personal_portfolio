@@ -21,7 +21,7 @@ function Weather() {
 
 
     return (
-        <div className="Weather"> 
+        <div className="weather"> 
             Helsinki weather: {temperature}
         </div>
     );
