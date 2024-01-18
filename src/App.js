@@ -2,11 +2,6 @@ import "./styles/main.css";
 
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 
-
-
-
-
-
 import Navbar from "./components/navbar/Navbar.js";
 import Footer from "./components/footer/Footer";
 import Home from "./pages/Home";
