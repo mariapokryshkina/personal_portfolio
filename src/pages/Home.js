@@ -14,7 +14,7 @@ const Home = () => {
 						<ul className="content-list">
 							<li className="content-list__item">
 								<h2 className="title-2">Frontend</h2>
-								<p>JavaScript, React.js, HTML5, CSS, NPM, MaterialUI, TailwindCSS, Styled Components</p>
+								<p>JavaScript, TypeScript, React.js, HTML5/CSS, npm, Git, Figma</p>
 							</li>
 							<li className="content-list__item">
 								<h2 className="title-2">Backend</h2>

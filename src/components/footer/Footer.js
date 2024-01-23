@@ -2,9 +2,6 @@ import "./style.css";
 import Weather from "../weather/Weather.js"
 
 
-// import vk from "./../../img/icons/vk.svg";
-// import instagram from "./../../img/icons/instagram.svg";
-// import twitter from "./../../img/icons/twitter.svg";
 import linkedIn from "./../../img/icons/linkedIn.svg";
 import gitHub from "./../../img/icons/gitHub.svg";
 
@@ -19,7 +16,7 @@ const Footer = () => {
 							<li className="social__item"><a href="https://www.linkedin.com/in/maria-pokryshkina-0251214b/" target="_blank" rel="noreferrer"><img src={linkedIn} alt="Link"/></a></li>
 						</ul>
 						<div className="copyright">
-							<p>© 2023 Maria Pokryshkina</p>
+							<p>© 2024 Maria Pokryshkina</p>
 							<Weather />
 						</div>
 					</div>
